@@ -1,0 +1,25 @@
+.inside {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.worker {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.inhalt {
+    background-color: #112733;
+    width: 60vw;
+    
+}
+
+.drawerBttn {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.rs-table-body-row-wrapper {
+    background-color: #112733;
+}

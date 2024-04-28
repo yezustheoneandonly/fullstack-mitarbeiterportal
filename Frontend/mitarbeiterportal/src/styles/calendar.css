@@ -1,0 +1,22 @@
+.rs-calendar-table {
+    color: bisque!important;
+    border-color: bisque!important;
+}
+
+.rs-calendar-btn-today {
+    background-color: bisque;
+}
+
+.rs-calendar-table-cell-content {
+    border-right: 1px solid bisque;
+    border-top: 1px solid bisque;
+}
+
+.rs-calendar-table-header-cell {
+    background-color: #00684A;
+    color: bisque!important;
+}
+
+.rs-calendar-table-header-cell-content {
+    color: bisque!important;
+}

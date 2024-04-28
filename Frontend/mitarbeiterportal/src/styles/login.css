@@ -1,0 +1,25 @@
+.logInContainer {
+    width: 18vw;
+    
+    background-color: #001E2B;
+    color: bisque;
+}
+
+.input-group-margin {
+    margin-bottom: 1rem;
+   }
+
+.rs-input {
+    background-color: #112733;
+    color: bisque;
+    border-color: bisque;
+}
+
+.rs-input-group-addon {
+    background-color: bisque!important;
+}
+
+.rs-popover {
+    position: relative;
+}
+

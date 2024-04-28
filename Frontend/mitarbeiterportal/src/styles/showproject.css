@@ -1,0 +1,26 @@
+.rs-table-row :nth-child(1) {
+    background-color: #112733;
+}
+
+.rs-table-row-header :nth-child(1) {
+    background-color: #00684A;
+    color: bisque;
+}
+
+.rs-table-cell {
+    border: none;
+}
+
+.rs-panel-title {
+    color: bisque;
+}
+
+.rs-panel {
+    border-color: bisque !important;
+}
+
+.settings {
+    background-color: #00684A !important;
+    margin-right: 0.5rem;
+
+}

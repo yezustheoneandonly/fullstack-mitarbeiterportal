@@ -1,0 +1,532 @@
+[
+  {
+    "firstName": "Admin",
+    "lastName": "Niclas",
+    "birthday": {
+      "$date": {
+        "$numberLong": "-30270329608000"
+      }
+    },
+    "email": "webdevtestnic@gmail.com",
+    "password": "$2b$10$cXAJ213lXMHykSS5Av2JcOATPiBZlGAFoUw88pusc8aX9.0grlTwq",
+    "contact": {
+      "street": "123 Main St",
+      "city": "Anytown",
+      "country": "USA",
+      "postalCode": "12345",
+      "phone": "555-555-5555"
+    
+    },
+    "role": "admin",
+    "registerDate": {
+      "$date": "2024-03-18T13:16:18.924Z"
+    },
+  
+    "checkedIn": true
+  },
+    {
+      "firstName": "Alice",
+      "lastName": "Johnson",
+      "birthday": {
+        "$date": {
+          "$numberLong": "-726109200000"
+        }
+      },
+      "email": "alice.johnson@example.com",
+      "password": "pass123",
+      "contact": {
+        "street": "321 Maple St",
+        "city": "Metroville",
+        "country": "USA",
+        "postalCode": "13579",
+        "phone": "555-246-8024"
+      },
+      "role": "employee",
+      "checkedIn": true
+    },
+    {
+      "firstName": "Bob",
+      "lastName": "Williams",
+      "birthday": {
+        "$date": {
+          "$numberLong": "-670587600000"
+        }
+      },
+      "email": "bob.williams@example.com",
+      "password": "bobby123",
+      "contact": {
+        "street": "555 Pine St",
+        "city": "Greenville",
+        "country": "USA",
+        "postalCode": "24680",
+        "phone": "555-369-1478"
+      },
+      "role": "employee",
+      "checkedIn": false
+    },
+    {
+      "firstName": "Emily",
+      "lastName": "Brown",
+      "birthday": {
+        "$date": {
+          "$numberLong": "-823219600000"
+        }
+      },
+      "email": "emily.brown@example.com",
+      "password": "emily456",
+      "contact": {
+        "street": "777 Cedar St",
+        "city": "Hometown",
+        "country": "USA",
+        "postalCode": "97531",
+        "phone": "555-531-9753"
+      },
+      "role": "employee",
+      "checkedIn": true
+    },
+    {
+      "firstName": "Michael",
+      "lastName": "Davis",
+      "birthday": {
+        "$date": {
+          "$numberLong": "-441277200000"
+        }
+      },
+      "email": "michael.davis@example.com",
+      "password": "mike1234",
+      "contact": {
+        "street": "888 Walnut St",
+        "city": "Cityville",
+        "country": "USA",
+        "postalCode": "75309",
+        "phone": "555-802-4691"
+      },
+      "role": "employee",
+      "checkedIn": false
+    },
+    {
+      "firstName": "Samantha",
+      "lastName": "Taylor",
+      "birthday": {
+        "$date": {
+          "$numberLong": "-669371400000"
+        }
+      },
+      "email": "samantha.taylor@example.com",
+      "password": "samtay567",
+      "contact": {
+        "street": "999 Oak St",
+        "city": "Villageville",
+        "country": "USA",
+        "postalCode": "13579",
+        "phone": "555-246-8024"
+      },
+      "role": "employee",
+      "checkedIn": true
+    },
+    {
+      "firstName": "Alice",
+      "lastName": "Johnson",
+      "birthday": {
+        "$date": {
+          "$numberLong": "-710721600000"
+        }
+      },
+      "email": "alice.johnson@example.com",
+      "password": "pass123",
+      "contact": {
+        "street": "321 Pine St",
+        "city": "Lakeview",
+        "country": "USA",
+        "postalCode": "13579",
+        "phone": "555-246-8024"
+      },
+      "role": "employee",
+      "checkedIn": false
+    },
+    {
+      "firstName": "Michael",
+      "lastName": "Brown",
+      "birthday": {
+        "$date": {
+          "$numberLong": "-815617200000"
+        }
+      },
+      "email": "michael.brown@example.com",
+      "password": "securepassword",
+      "contact": {
+        "street": "987 Maple St",
+        "city": "Hometown",
+        "country": "USA",
+        "postalCode": "97531",
+        "phone": "555-789-1234"
+      },
+      "role": "employee",
+      "checkedIn": true
+    },
+    {
+      "firstName": "Emily",
+      "lastName": "Martinez",
+      "birthday": {
+        "$date": {
+          "$numberLong": "-893212800000"
+        }
+      },
+      "email": "emily.martinez@example.com",
+      "password": "emily123",
+      "contact": {
+        "street": "654 Birch St",
+        "city": "Riverdale",
+        "country": "USA",
+        "postalCode": "24680",
+        "phone": "555-357-9512"
+      },
+      "role": "employee",
+      "checkedIn": false
+    },
+    {
+      "firstName": "David",
+      "lastName": "Garcia",
+      "birthday": {
+        "$date": {
+          "$numberLong": "-982809200000"
+        }
+      },
+      "email": "david.garcia@example.com",
+      "password": "davidpass",
+      "contact": {
+        "street": "753 Cedar St",
+        "city": "Springfield",
+        "country": "USA",
+        "postalCode": "80237",
+        "phone": "555-802-7531"
+      },
+      "role": "employee",
+      "checkedIn": true
+    },
+    {
+      "firstName": "Olivia",
+      "lastName": "Lopez",
+      "birthday": {
+        "$date": {
+          "$numberLong": "-1062182400000"
+        }
+      },
+      "email": "olivia.lopez@example.com",
+      "password": "olivia321",
+      "contact": {
+        "street": "147 Walnut St",
+        "city": "Greenville",
+        "country": "USA",
+        "postalCode": "36901",
+        "phone": "555-369-1478"
+      },
+      "role": "employee",
+      "checkedIn": false
+    },
+    {
+      "firstName": "Alice",
+      "lastName": "Johnson",
+      "birthday": {
+        "$date": {
+          "$numberLong": "-710721600000"
+        }
+      },
+      "email": "alice.johnson@example.com",
+      "password": "pass123",
+      "contact": {
+        "street": "321 Pine St",
+        "city": "Lakeview",
+        "country": "USA",
+        "postalCode": "13579",
+        "phone": "555-246-8024"
+      },
+      "role": "employee",
+      "checkedIn": false
+    },
+    {
+      "firstName": "Michael",
+      "lastName": "Brown",
+      "birthday": {
+        "$date": {
+          "$numberLong": "-815617200000"
+        }
+      },
+      "email": "michael.brown@example.com",
+      "password": "securepassword",
+      "contact": {
+        "street": "987 Maple St",
+        "city": "Hometown",
+        "country": "USA",
+        "postalCode": "97531",
+        "phone": "555-789-1234"
+      },
+      "role": "employee",
+      "checkedIn": true
+    },
+    {
+      "firstName": "Emily",
+      "lastName": "Martinez",
+      "birthday": {
+        "$date": {
+          "$numberLong": "-893212800000"
+        }
+      },
+      "email": "emily.martinez@example.com",
+      "password": "emily123",
+      "contact": {
+        "street": "654 Birch St",
+        "city": "Riverdale",
+        "country": "USA",
+        "postalCode": "24680",
+        "phone": "555-357-9512"
+      },
+      "role": "employee",
+      "checkedIn": false
+    },
+    {
+      "firstName": "David",
+      "lastName": "Garcia",
+      "birthday": {
+        "$date": {
+          "$numberLong": "-982809200000"
+        }
+      },
+      "email": "david.garcia@example.com",
+      "password": "davidpass",
+      "contact": {
+        "street": "753 Cedar St",
+        "city": "Springfield",
+        "country": "USA",
+        "postalCode": "80237",
+        "phone": "555-802-7531"
+      },
+      "role": "employee",
+      "checkedIn": true
+    },
+    {
+      "firstName": "Olivia",
+      "lastName": "Lopez",
+      "birthday": {
+        "$date": {
+          "$numberLong": "-1062182400000"
+        }
+      },
+      "email": "olivia.lopez@example.com",
+      "password": "olivia321",
+      "contact": {
+        "street": "147 Walnut St",
+        "city": "Greenville",
+        "country": "USA",
+        "postalCode": "36901",
+        "phone": "555-369-1478"
+      },
+      "role": "employee",
+      "checkedIn": false
+    },
+    {
+      "firstName": "Sophia",
+      "lastName": "Taylor",
+      "birthday": {
+        "$date": {
+          "$numberLong": "-1136073600000"
+        }
+      },
+      "email": "sophia.taylor@example.com",
+      "password": "sophia456",
+      "contact": {
+        "street": "852 Willow St",
+        "city": "Fairview",
+        "country": "USA",
+        "postalCode": "25846",
+        "phone": "555-258-9631"
+      },
+      "role": "employee",
+      "checkedIn": true
+    },
+    {
+      "firstName": "Mason",
+      "lastName": "Rodriguez",
+      "birthday": {
+        "$date": {
+          "$numberLong": "-1167609600000"
+        }
+      },
+      "email": "mason.rodriguez@example.com",
+      "password": "masonpass",
+      "contact": {
+        "street": "369 Oak St",
+        "city": "Springfield",
+        "country": "USA",
+        "postalCode": "80237",
+        "phone": "555-802-3691"
+      },
+      "role": "employee",
+      "checkedIn": false
+    },
+    {
+      "firstName": "Logan",
+      "lastName": "Lewis",
+      "birthday": {
+        "$date": {
+          "$numberLong": "-1200124800000"
+        }
+      },
+      "email": "logan.lewis@example.com",
+      "password": "logan789",
+      "contact": {
+        "street": "753 Cedar St",
+        "city": "Rivertown",
+        "country": "USA",
+        "postalCode": "36547",
+        "phone": "555-365-1478"
+      },
+      "role": "employee",
+      "checkedIn": true
+    },
+    {
+      "firstName": "Amelia",
+      "lastName": "Lee",
+      "birthday": {
+        "$date": {
+          "$numberLong": "-1231660800000"
+        }
+      },
+      "email": "amelia.lee@example.com",
+      "password": "ameliapass",
+      "contact": {
+        "street": "456 Elm St",
+        "city": "Hillside",
+        "country": "USA",
+        "postalCode": "78963",
+        "phone": "555-789-4562"
+      },
+      "role": "employee",
+      "checkedIn": false
+    },
+    {
+      "firstName": "Elijah",
+      "lastName": "Harris",
+      "birthday": {
+        "$date": {
+          "$numberLong": "-1263196800000"
+        }
+      },
+      "email": "elijah.harris@example.com",
+      "password": "elijah123",
+      "contact": {
+        "street": "147 Walnut St",
+        "city": "Hometown",
+        "country": "USA",
+        "postalCode": "96325",
+        "phone": "555-963-2587"
+      },
+      "role": "employee",
+      "checkedIn": true
+    },
+    {
+      "firstName": "Harper",
+      "lastName": "Clark",
+      "birthday": {
+        "$date": {
+          "$numberLong": "-1294732800000"
+        }
+      },
+      "email": "harper.clark@example.com",
+      "password": "harperpass",
+      "contact": {
+        "street": "987 Maple St",
+        "city": "Woodsville",
+        "country": "USA",
+        "postalCode": "45698",
+        "phone": "555-456-7891"
+      },
+      "role": "employee",
+      "checkedIn": false
+    },
+    {
+      "firstName": "Avery",
+      "lastName": "Young",
+      "birthday": {
+        "$date": {
+          "$numberLong": "-1326268800000"
+        }
+      },
+      "email": "avery.young@example.com",
+      "password": "averypass",
+      "contact": {
+        "street": "654 Birch St",
+        "city": "Pleasantville",
+        "country": "USA",
+        "postalCode": "14789",
+        "phone": "555-147-3698"
+      },
+      "role": "employee",
+      "checkedIn": true
+    },
+    {
+      "firstName": "Evelyn",
+      "lastName": "Walker",
+      "birthday": {
+        "$date": {
+          "$numberLong": "-1357804800000"
+        }
+      },
+      "email": "evelyn.walker@example.com",
+      "password": "evelynpass",
+      "contact": {
+        "street": "852 Willow St",
+        "city": "Hillcrest",
+        "country": "USA",
+        "postalCode": "36985",
+        "phone": "555-369-8524"
+      },
+      "role": "employee",
+      "checkedIn": false
+    },
+    {
+      "firstName": "Ethan",
+      "lastName": "Hall",
+      "birthday": {
+        "$date": {
+          "$numberLong": "-1389340800000"
+        }
+      },
+      "email": "ethan.hall@example.com",
+      "password": "ethanpass",
+      "contact": {
+        "street": "369 Oak St",
+        "city": "Riverside",
+        "country": "USA",
+        "postalCode": "74123",
+        "phone": "555-741-9632"
+      },
+      "role": "employee",
+      "checkedIn": true
+    },
+    {
+      "firstName": "Scarlett",
+      "lastName": "Allen",
+      "birthday": {
+        "$date": {
+          "$numberLong": "-1420876800000"
+        }
+      },
+      "email": "scarlett.allen@example.com",
+      "password": "scarlettpass",
+      "contact": {
+        "street": "753 Cedar St",
+        "city": "Hillsboro",
+        "country": "USA",
+        "postalCode": "85274",
+        "phone": "555-852-9631"
+      },
+      "role": "employee",
+      "checkedIn": false
+    }
+  
+
+
+]
+  
+

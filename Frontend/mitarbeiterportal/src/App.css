@@ -1,0 +1,28 @@
+#root {
+
+
+  text-align: center;
+
+
+}
+
+
+body {
+  background-color: #112733;
+  color: bisque;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.positionAdd {
+  background-color: #112733;
+  padding: 20px;
+  border-radius: 15px;
+  border: 1px solid bisque;
+}
+
+.rs-modal-content {
+  background-color: #112733;
+  color: bisque;
+}

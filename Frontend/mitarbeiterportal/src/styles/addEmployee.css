@@ -1,0 +1,61 @@
+.rs-input-group {
+    background-color: #112733;
+    color: bisque;
+    border-color: bisque;
+}
+
+.rs-input-group-inside {
+    background-color: #112733;
+    color: bisque;
+}
+
+.addEm {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    max-width: 100vw;
+    max-height: 100vh;
+
+}
+
+.rs-dropdown-toggle {
+    background-color: bisque !important;
+}
+
+.plus {
+    margin-right: 10px;
+}
+
+.rs-picker:nth-child(1) {
+    background-color: #112733 !important;
+    color: bisque;
+    border-color: bisque;
+}
+
+.rs-picker-popup {
+    background-color: #112733 !important;
+    color: bisque;
+    border: 1px solid bisque;
+}
+
+.rs-picker-toggle:nth-child(1) {
+
+    background-color: #112733 !important;
+    color: bisque;
+    border: 1px solid bisque;
+    overflow: hidden;
+}
+
+.rs-form-control {
+    background-color: #112733 !important;
+    color: bisque;
+    border: 1px solid bisque;
+    overflow: hidden;
+}
+
+.rs-form-control-wrapper {
+    background-color: #112733 !important;
+    color: bisque;
+    border: 1px solid bisque;
+    overflow: hidden;
+}

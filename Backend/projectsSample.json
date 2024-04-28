@@ -1,0 +1,93 @@
+[
+    {
+      "name": "Project Alpha",
+      "deadline": {
+        "$date": "2024-04-10T22:00:00.000Z"
+      },
+      "members": [],
+      "creatorId": "user123",
+      "description": "This project involves developing a new software application."
+    },
+    {
+      "name": "Project Beta",
+      "deadline": {
+        "$date": "2024-04-15T22:00:00.000Z"
+      },
+      "members": [],
+      "creatorId": "user456",
+      "description": "The goal of this project is to improve customer service processes."
+    },
+    {
+      "name": "Project Gamma",
+      "deadline": {
+        "$date": "2024-04-20T22:00:00.000Z"
+      },
+      "members": [],
+      "creatorId": "user789",
+      "description": "This project focuses on optimizing supply chain management."
+    },
+    {
+      "name": "Project Delta",
+      "deadline": {
+        "$date": "2024-04-25T22:00:00.000Z"
+      },
+      "members": [],
+      "creatorId": "user101112",
+      "description": "The objective of this project is to enhance marketing strategies."
+    },
+    {
+      "name": "Project Epsilon",
+      "deadline": {
+        "$date": "2024-04-30T22:00:00.000Z"
+      },
+      "members": [],
+      "creatorId": "user131415",
+      "description": "This project involves implementing new HR policies."
+    },
+    {
+      "name": "Project Zeta",
+      "deadline": {
+        "$date": "2024-05-05T22:00:00.000Z"
+      },
+      "members": [],
+      "creatorId": "user161718",
+      "description": "The aim of this project is to upgrade IT infrastructure."
+    },
+    {
+      "name": "Project Eta",
+      "deadline": {
+        "$date": "2024-05-10T22:00:00.000Z"
+      },
+      "members": [],
+      "creatorId": "user192021",
+      "description": "This project focuses on improving product quality."
+    },
+    {
+      "name": "Project Theta",
+      "deadline": {
+        "$date": "2024-05-15T22:00:00.000Z"
+      },
+      "members": [],
+      "creatorId": "user222324",
+      "description": "The goal of this project is to streamline financial processes."
+    },
+    {
+      "name": "Project Iota",
+      "deadline": {
+        "$date": "2024-05-20T22:00:00.000Z"
+      },
+      "members": [],
+      "creatorId": "user252627",
+      "description": "This project involves expanding market reach."
+    },
+    {
+      "name": "Project Kappa",
+      "deadline": {
+        "$date": "2024-05-25T22:00:00.000Z"
+      },
+      "members": [],
+      "creatorId": "user282930",
+      "description": "The objective of this project is to enhance customer satisfaction."
+    }
+  ]
+  
