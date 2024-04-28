@@ -1,6 +1,6 @@
 # fullstack-mitarbeiterportal
 
-Dieses Projekt ist im Rahmen einer Weiterbildung zum Web Developer entstanden. Es war Abschlussprojekt des Backend Moduls. Vorraussetzung war eine App oder Website zu schreiben welches ein voll funktionierendes BackEnd via Express und MongoDB beinhaltet.
+Dieses Projekt ist im Rahmen einer Weiterbildung zum Web Developer entstanden. Es war Abschlussprojekt des Backend Moduls. Vorraussetzung war eine App oder Website zu schreiben welches ein voll funktionierendes BackEnd via Express und MongoDB beinhaltet. Dauer: 4 Tage
 
 # Mitarbeiterportal
 
@@ -20,7 +20,7 @@ Die Urheberrechte liegen bei Niclas Basler (https://github.com/Shadow-Nic), Dani
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-This project was created as part of further training to become a web developer. It was the final project of the Backend module. The prerequisite was to write an app or website that includes a fully functioning backend via Express and MongoDB.
+This project was created as part of further training to become a web developer. It was the final project of the Backend module. The prerequisite was to write an app or website that includes a fully functioning backend via Express and MongoDB. Duration: 4 days
 
 # Mitarbeiterportal
 
@@ -36,4 +36,4 @@ In the employee portal, the user can carry out the following functions, dependin
 
 ## License:
 
-The copyrights belong to Niclas Basler (https://github.com/Shadow-Nic), Daniel Wolthausen (https://github.com/Hunnitio), Hoang Long (https://github.com/Bubteck) and Stephan Hörichs https://github.com/yezustheoneandonly. Any misuse of the code or content has legal consequences
+The copyrights belong to Niclas Basler (https://github.com/Shadow-Nic), Daniel Wolthausen (https://github.com/Hunnitio), Hoang Long (https://github.com/Bubteck) and Stephan Hörichs https://github.com/yezustheoneandonly. Any misuse of the code or content has legal consequences.
