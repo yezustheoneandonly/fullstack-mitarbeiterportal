@@ -24,7 +24,7 @@ This project was created as part of further training to become a web developer. 
 
 # Mitarbeiterportal
 
-## Discription:
+## Description:
 
 In the employee portal, the user can carry out the following functions, depending on their role:
 
